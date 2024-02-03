@@ -1,0 +1,1 @@
+Personal project of linking my spotify playlist to my discord status by picking a song from spotify using their API, then searching youtube for an appropriate video and finally setting it as a button in my discord profile.
